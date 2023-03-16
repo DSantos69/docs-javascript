@@ -16,7 +16,7 @@
 _This project will contain the following content:_
 
 - Unit test
-- Javascript life style
+- Javascript life-cycle
 - Data type javascript
 - RegExp
 - Design patterns
@@ -27,4 +27,5 @@ _This project will contain the following content:_
 - Performance
 - Node.js long-running processing
 - Javascript Security
-- More coming soon
+
+###### More coming soon...
